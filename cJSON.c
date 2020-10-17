@@ -23,6 +23,8 @@
 /* cJSON */
 /* JSON parser in C. */
 
+#pragma warning(disable:4996)
+
 #include <string.h>
 #include <stdio.h>
 #include <math.h>
